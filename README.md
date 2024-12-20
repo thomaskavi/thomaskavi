@@ -48,6 +48,6 @@ Here are some of the technologies I work with:
 ## Let’s Connect 🤝
 Feel free to reach out if you'd like to collaborate on projects or chat about technology!
 
-📧 **Email**: [devthom@gmail.com](mailto:devthomaskavi@gmail.com)  
+📧 **Email**: [devthomaskavi@gmail.com](mailto:devthomaskavi@gmail.com)  
 💼 **LinkedIn**: [in/thomaskavi](https://www.linkedin.com/in/thomaskavi)  
 🐙 **GitHub**: [thomaskavi](https://github.com/thomaskavi)
