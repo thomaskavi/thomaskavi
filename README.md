@@ -34,10 +34,10 @@ Here are some of the technologies I work with:
 
 ### Hard Skills:
 - **Backend Development**: Java (Spring Boot), Python, Node.js
-- **Databases**: MySQL, MongoDB, H2
+- **Databases**: PostgreSQL, MySQL, MongoDB
 - **Version Control**: Git, GitHub
 - **APIs**: RESTful APIs, Authentication (JWT, OAuth), API Design
-- **Tools**: Postman, Docker, IntelliJ IDEA, VS Code
+- **Tools**: Postman, Docker, VS Code, EclipseIDE, STS
 
 ### Soft Skills:
 - **Problem Solving**: I enjoy tackling challenging problems and finding creative solutions.
